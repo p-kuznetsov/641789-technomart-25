@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Pavel Kuznetsov](https://up.htmlacademy.ru/htmlcss/25/user/641789).
-* Наставник: `Неизвестно`.
+* Наставник: [Keksobot].
 
 ---
 
